@@ -1,0 +1,35 @@
+.pet
+{float: left;
+    width: 200px;
+height: 200px;
+text-align: center;}
+img
+{width: 300px;
+height: auto;
+}
+.hidden
+{visibility: hidden;}
+.hoverCat
+{float: left;
+width: 200px;
+height: 200px;
+background-color: red;
+text-align: center;}
+.hoverDog
+{float: left;
+width: 200px;
+height: 200px;
+background-color: green;
+text-align: center;}
+.secretBox
+{float: left;
+    width: 200px;
+height: 200px;
+text-align: center;
+color: white;}
+.hoverSecret
+{float: left;
+    width: 200px;
+height: 200px;
+text-align: center;
+color: black;}
